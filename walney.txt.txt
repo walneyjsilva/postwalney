@@ -1,10 +1,22 @@
+mente diferentes.
+
+Então, entando no branch new_menu, vamos adicionar um simples menu na página:
+
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title> Meu Site </title>
 </head>
+
 <body>
-Esse é meu site
+Meu Site
+
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="sobre.html">Sobre</a></li>
+    <li><a href="contato.html">Contato</a></li>
+</ul>
+
 </body>
 </html>
